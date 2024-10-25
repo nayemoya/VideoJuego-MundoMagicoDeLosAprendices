@@ -5,12 +5,13 @@ Este repositorio está destinado a documentar el proceso de creación del videoj
 ---
 
 ## 📑 Tabla de Contenido
-- [Trello del Proyecto](#trello-del-proyecto)
-- [Mundo Mágico de los Aprendices - Versión 01](#mundo-mágico-de-los-aprendices---versión-01)
-- [Mundo Mágico de los Aprendices - Versión 02](#mundo-mágico-de-los-aprendices---versión-02)
+- [Trello del Proyecto](#trello)
+- [Mundo Mágico de los Aprendices - Versión 01](#versión-01)
+- [Mundo Mágico de los Aprendices - Versión 02](#versión-02)
 
 ---
 
+<a name="trello"></a>
 ## 🗂️ Trello del Proyecto
 Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videojuego:<p>  
 <a href="https://trello.com/invite/b/671c082615101a32cafbb4fb/ATTI1a59d17c76d48550e0f6a96240a759ebFD42CF2C/videojuego-el-mundo-magico-de-los-aprendices">
@@ -20,6 +21,7 @@ Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videoj
 
 ---
 
+<a name="versión-01"></a>
 ## 🌟 Mundo Mágico de los Aprendices - Versión 01
 ### 🛠️ ¿Qué se hizo?
 
@@ -35,6 +37,7 @@ Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videoj
 
 ---
 
+<a name="versión-02"></a>
 ## 🌟 Mundo Mágico de los Aprendices - Versión 02
 ### 🛠️ ¿Qué se hizo?
 
