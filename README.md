@@ -34,6 +34,8 @@ Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videoj
   ![image](https://github.com/user-attachments/assets/4229d6f2-dee7-4dc1-bc47-42363f1ddff8)
  
   ![image](https://github.com/user-attachments/assets/ce35d90d-497c-41ac-9007-beee1603f4ba)
+  
+  ![image](https://github.com/user-attachments/assets/b5da7dbf-c19a-405f-87bc-a8008a2e71c5)
 
 ---
 
