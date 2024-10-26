@@ -1,4 +1,4 @@
-# 🎮 VideoJuego - Mundo Mágico de los Aprendices
+# 🎮 VideoJuego - ✨El Mundo Mágico de los Aprendices✨
 ### Creado por: Nayeli Moya Díaz | GIDS4102
 Este repositorio está destinado a documentar el proceso de creación del videojuego **"El Mundo Mágico de los Aprendices"**.
 
