@@ -44,12 +44,14 @@ Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videoj
 ### 🛠️ ¿Qué se hizo?
 
 - **Commit**:  
-  
+  ![image](https://github.com/user-attachments/assets/5b92bbcd-74eb-4a2f-9103-8c31c9d620c5)
 
 ### 📸 Evidencia
 
 - **Captura del videojuego**:  
-  
+  ![image](https://github.com/user-attachments/assets/1c76711e-9da0-47f0-85c4-2460833f4420)
+
+  ![image](https://github.com/user-attachments/assets/e03107b5-ec6f-4fbc-ba65-2b044e34a832)
 
 ---
 
