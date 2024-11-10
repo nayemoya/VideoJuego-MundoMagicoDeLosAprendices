@@ -8,6 +8,7 @@ Este repositorio está destinado a documentar el proceso de creación del videoj
 - [Trello del Proyecto](#trello)
 - [Mundo Mágico de los Aprendices - Versión 01](#versión-01)
 - [Mundo Mágico de los Aprendices - Versión 02](#versión-02)
+- [Mundo Mágico de los Aprendices - Versión 03](#versión-03)
 
 ---
 
@@ -52,6 +53,22 @@ Aquí puedes ver el tablero de Trello donde se organiza el desarrollo del videoj
   ![image](https://github.com/user-attachments/assets/1c76711e-9da0-47f0-85c4-2460833f4420)
 
   ![image](https://github.com/user-attachments/assets/e03107b5-ec6f-4fbc-ba65-2b044e34a832)
+
+---
+
+<a name="versión-03"></a>
+## 🌟 Mundo Mágico de los Aprendices - Versión 03
+### 🛠️ ¿Qué se hizo?
+
+- **Commit**:  
+  ![image](https://github.com/user-attachments/assets/20810361-7a63-40d7-ac3a-9906bc1a54f8)
+
+### 📸 Evidencia
+
+- **Captura del videojuego**:  
+  ![image](https://github.com/user-attachments/assets/a2931e5e-6f56-47a0-91ad-65e3ed9c48c4)
+
+  ![image](https://github.com/user-attachments/assets/7079fa6c-ead8-4a9c-8144-beb411291248)
 
 ---
 
